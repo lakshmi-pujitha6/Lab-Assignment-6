@@ -1,8 +1,7 @@
 ## Setup Instructions
 ### 1. Clone the repsitory:
     ###First clone the repository to your local machine:
-    ```bash
-    git clone https://github.com/your-username/hello_django.git
+    git clone https://github.com/lakshmi-pujitha6/Lab-Assignment-6.git
 
 ### 2. Navigate to the project folder:
     cd hello_django
