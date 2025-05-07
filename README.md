@@ -27,10 +27,13 @@
 ### 7. Access the application:
     ### JSON Response: Visit 
     http://127.0.0.1:8001/json/
+![image](https://github.com/user-attachments/assets/5232ab8a-8cf8-4ce4-90b3-b3e33730fd57)
 
     ###Expected output: {"Message": "Hello World!"}
 
+
     ### HTML Response: Visit
     http://127.0.0.1:8001/html/
+![image](https://github.com/user-attachments/assets/1c83dc65-7d5b-4201-9cbb-6940338eb7f8)
 
     ###Expected output: "Hello World!" in bold.
